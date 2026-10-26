@@ -1,0 +1,19 @@
+Package: sentinelFraudLab
+Title: Sentinel Fraud Intelligence Shiny Portfolio Project
+Version: 1.0.0
+Authors@R: person("Sentinel", "Project", role = c("aut", "cre"))
+Description: An educational Shiny dashboard for exploring imbalanced credit-card
+    fraud data, comparing classification models, and reviewing risk tradeoffs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    shiny,
+    bslib,
+    ggplot2,
+    DT,
+    rpart,
+    ranger,
+    gbm,
+    scales
+Suggests:
+    knitr

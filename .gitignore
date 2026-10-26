@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+data/*.csv
+data-raw/*.csv
+*.rds
+*.RDS
+renv/library/
+renv/staging/
