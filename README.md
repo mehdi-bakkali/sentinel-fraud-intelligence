@@ -79,6 +79,6 @@ No benchmark results are stated here because results depend on the uploaded data
 - Scores should be treated as review aids, not automatic approvals or declines.
 - Do not upload personal or payment-card information, and do not commit sensitive data to GitHub.
 
-## Inspiration and attribution
+## Source
 
 The project idea was inspired by DataFlair Team's [Data Science Project — Detect Credit Card Fraud with Machine Learning in R](https://data-flair.training/blogs/data-science-machine-learning-project-credit-card-fraud-detection/). DataFlair is credited for the inspiration. Sentinel's application design, code, and additional workflow are independent work.
