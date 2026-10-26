@@ -1,7 +1,5 @@
 # Sentinel Fraud Intelligence
 
-Sentinel is an educational credit card fraud analysis application built in R. It provides tools to inspect an imbalanced transaction dataset, compare classification models, and prioritize transactions for human review.
-
 > **Scope:** This application is for education and demonstration only. It is not designed or validated for real payment decisions. Use synthetic or approved anonymized data only.
 
 ## Capabilities
